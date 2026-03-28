@@ -1,4 +1,4 @@
-# FIFA-World-Cup-2022-Analysis
+# FIFA World Cup 2022 Analysis
 Exploratory data analysis and statistical modelling of FIFA World Cup 2022 match statistics.
 ## Project Overview
 This project analyzes match statistics from the FIFA World Cup 2022 to identify which performance features are most strongly related to winning. 
